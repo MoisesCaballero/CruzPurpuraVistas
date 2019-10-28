@@ -1,0 +1,14 @@
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\bin\Debug\netstandard2.0\FarmaciaApp.deps.json
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\bin\Debug\netstandard2.0\FarmaciaApp.dll
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\bin\Debug\netstandard2.0\FarmaciaApp.pdb
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.csprojAssemblyReference.cache
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.csproj.CoreCompileInputs.cache
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.AssemblyInfoInputs.cache
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.AssemblyInfo.cs
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.dll
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.pdb
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
