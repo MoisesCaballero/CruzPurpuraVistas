@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\bin\Debug\netstandard2.0\product.Domain.deps.json
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\bin\Debug\netstandard2.0\product.Domain.dll
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\bin\Debug\netstandard2.0\product.Domain.pdb
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\obj\Debug\netstandard2.0\product.Domain.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\obj\Debug\netstandard2.0\product.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\obj\Debug\netstandard2.0\product.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\obj\Debug\netstandard2.0\product.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\obj\Debug\netstandard2.0\product.Domain.dll
+C:\Users\Asus\Desktop\CruzPurpuraVistas\product.Domain\obj\Debug\netstandard2.0\product.Domain.pdb

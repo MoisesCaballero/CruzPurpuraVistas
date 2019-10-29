@@ -1006,24 +1006,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\David Caballero\\.nuget\\packages\\": {},
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp.iOS\\FarmaciaApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp.iOS\\FarmaciaApp.iOS.csproj",
       "projectName": "FarmaciaApp.iOS",
-      "projectPath": "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp.iOS\\FarmaciaApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\David Caballero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp.iOS\\FarmaciaApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\David Caballero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1037,8 +1037,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp\\FarmaciaApp.csproj": {
-              "projectPath": "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp\\FarmaciaApp.csproj"
+            "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp\\FarmaciaApp.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp\\FarmaciaApp.csproj"
             }
           }
         }

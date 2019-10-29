@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp\\FarmaciaApp.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp\\FarmaciaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp\\FarmaciaApp.csproj": {
+    "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp\\FarmaciaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp\\FarmaciaApp.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp\\FarmaciaApp.csproj",
         "projectName": "FarmaciaApp",
-        "projectPath": "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp\\FarmaciaApp.csproj",
-        "packagesPath": "C:\\Users\\David Caballero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Caballero\\3D Objects\\Api\\FarmaciaApp\\FarmaciaApp\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp\\FarmaciaApp.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\CruzPurpuraVistas\\FarmaciaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\David Caballero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
