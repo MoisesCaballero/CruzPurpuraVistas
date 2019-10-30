@@ -1,6 +1,6 @@
 ﻿using product.Domain;
-
 using Xamarin.Forms;
+using FarmaciaApp.Services;
 using Xamarin.Forms.Xaml;
 
 namespace FarmaciaApp.Views
@@ -15,7 +15,7 @@ namespace FarmaciaApp.Views
 
             InitializeComponent();
 
-            lsContact.ItemsSource = ProductoService.GetProducts();
+            lssContact.ItemsSource = ProductoService.GetProducts();
 
         }
         private void Contact_selected(object sender, SelectedItemChangedEventArgs e)

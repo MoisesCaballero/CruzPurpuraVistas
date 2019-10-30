@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace product.Domain
 {
-    class Product
+    public class Product
     {
+
 
         public string _id { get; set; }
 

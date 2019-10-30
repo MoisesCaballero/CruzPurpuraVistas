@@ -4,6 +4,6 @@
     <ProjectView>ProjectFiles</ProjectView>
     <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
     <SelectedDevice>HUAWEI ANE-LX3</SelectedDevice>
-    <DefaultDevice>dc</DefaultDevice>
+    <DefaultDevice>my_device</DefaultDevice>
   </PropertyGroup>
 </Project>

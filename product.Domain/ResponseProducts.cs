@@ -4,7 +4,7 @@ using System.Text;
 
 namespace product.Domain
 {
-    class ResponseProducts
+    public class ResponseProducts
     {
         public Boolean ok { get; set; }
 

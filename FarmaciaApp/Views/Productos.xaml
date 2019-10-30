@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="FarmaciaApp.Views.Productos">
-    <ListView x:Name="lsContact" ItemSelected="Contact_selected">
+    <ListView x:Name="lssContact" ItemSelected="Contact_selected">
 
         <ListView.ItemTemplate>
 

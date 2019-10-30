@@ -1,5 +1,8 @@
-﻿
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
+
+using product.Domain;
+
+
 using Xamarin.Forms.Xaml;
 
 namespace FarmaciaApp.Views

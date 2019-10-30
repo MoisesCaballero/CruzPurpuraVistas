@@ -12,3 +12,22 @@ C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstand
 C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.pdb
 C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
 C:\Users\David Caballero\source\repos\FarmaciaApp\FarmaciaApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\bin\Debug\netstandard2.0\FarmaciaApp.deps.json
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\bin\Debug\netstandard2.0\FarmaciaApp.dll
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\bin\Debug\netstandard2.0\FarmaciaApp.pdb
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\bin\Debug\netstandard2.0\product.Domain.dll
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\bin\Debug\netstandard2.0\product.Domain.pdb
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\Views\DetailProducts.xaml.g.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\Views\Productos.xaml.g.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.csproj.CopyComplete
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.dll
+C:\Users\Asus\Desktop\CruzPurpuraVistas\FarmaciaApp\obj\Debug\netstandard2.0\FarmaciaApp.pdb
